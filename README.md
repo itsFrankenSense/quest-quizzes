@@ -1,5 +1,5 @@
 # Learning Validation / Quizzes
-<sub> Information from - [Emerald Academy - Beginner Cadence Bootcamp Beginner](https://github.com/emerald-dao/beginner-cadence-course) </sub>
+<sub> Information from: [Emerald Academy - Beginner Cadence Bootcamp Beginner](https://github.com/emerald-dao/beginner-cadence-course) </sub>
 
 
 ## Chapter 1
