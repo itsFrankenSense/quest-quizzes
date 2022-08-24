@@ -1,5 +1,6 @@
 # Learning Validation / Quizzes
-<sub>Beginner Cadence Bootcamp </sub>
+Information from - [Emerald Academy - Beginner Cadence Bootcamp Beginner]([https://github.com/itsFrankenSense/quest-submission/blob/main/chapter3.0/day1](https://github.com/emerald-dao/beginner-cadence-course)) 
+
 
 ## Chapter 1
 - Day 1 - https://forms.gle/dCaMDJWoko54xkiv5
