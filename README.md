@@ -1,4 +1,4 @@
-# Learning validation / Quizzes
+# Learning Validation / Quizzes
 <sub>Beginner Cadence Bootcamp </sub>
 
 ## Chapter 1
