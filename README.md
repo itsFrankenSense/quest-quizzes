@@ -17,3 +17,5 @@
 
 ## Chapter 3 (WIP)
 - Day 1 - https://forms.gle/hjfCUpifLnbkJ7Lu5 
+- Day 2 - https://forms.gle/NfDsHkwk5TyVA2uV9
+- Day 3 - https://forms.gle/tfSyJaMm2cRRs1s26
