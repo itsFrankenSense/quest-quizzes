@@ -15,8 +15,11 @@
 - Day 3 - https://forms.gle/thWXL8MkboadnBtLA
 - Day 4 - https://forms.gle/B57pWEphAUJAMVyd6
 
-## Chapter 3 (WIP)
+## Chapter 3
 - Day 1 - https://forms.gle/hjfCUpifLnbkJ7Lu5 
 - Day 2 - https://forms.gle/NfDsHkwk5TyVA2uV9
 - Day 3 - https://forms.gle/tfSyJaMm2cRRs1s26
 - Day 4 - https://forms.gle/Cq9GKcFMdhyDAQBy7
+- Day 5 - https://forms.gle/nn7xho4BmG51Nq3L7
+
+## Chapter 3 (WIP)
