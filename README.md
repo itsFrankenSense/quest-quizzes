@@ -24,3 +24,4 @@
 
 ## Chapter 4 (WIP)
 - Day 1 - https://forms.gle/uE1K3MNqfPUc2hzA7
+- Day 2 - https://forms.gle/ZG13mJCD77cCPnnK7
