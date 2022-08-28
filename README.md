@@ -22,7 +22,10 @@
 - Day 4 - https://forms.gle/Cq9GKcFMdhyDAQBy7
 - Day 5 - https://forms.gle/nn7xho4BmG51Nq3L7
 
-## Chapter 4 (WIP)
+## Chapter 4
 - Day 1 - https://forms.gle/uE1K3MNqfPUc2hzA7
 - Day 2 - https://forms.gle/ZG13mJCD77cCPnnK7
 - Day 3 - https://forms.gle/HxGckQ6D81kp2Qr16
+- Day 4 - https://forms.gle/4rP2JpDpEjbw8xEQ6
+
+## Chapter 5 (WIP)
