@@ -29,3 +29,4 @@
 - Day 4 - https://forms.gle/4rP2JpDpEjbw8xEQ6
 
 ## Chapter 5 (WIP)
+- Day 1 - https://forms.gle/o1jy1vMgqGLsAr259
