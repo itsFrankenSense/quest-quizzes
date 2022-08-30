@@ -1,6 +1,7 @@
 # Learning Validation / Quizzes
 <sub> Information from: [Emerald Academy - Beginner Cadence Bootcamp Beginner](https://github.com/emerald-dao/beginner-cadence-course) </sub>
 
+To provide any feedback, suggestions or corrections please DM myself on Twitter [@itsfrankensense](https://twitter.com/itsfrankensense)
 
 ## Chapter 1
 - Day 1 - https://forms.gle/dCaMDJWoko54xkiv5
