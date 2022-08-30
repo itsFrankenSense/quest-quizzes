@@ -28,6 +28,7 @@
 - Day 3 - https://forms.gle/HxGckQ6D81kp2Qr16
 - Day 4 - https://forms.gle/4rP2JpDpEjbw8xEQ6
 
-## Chapter 5 (WIP)
+## Chapter 5
 - Day 1 - https://forms.gle/o1jy1vMgqGLsAr259
 - Day 2 - https://forms.gle/oeLaw1zyAgYhnBqR7 (looking for more questions if anyone has suggestions)
+- Day 3 - https://forms.gle/dtwAhuovbTWFpgV37
