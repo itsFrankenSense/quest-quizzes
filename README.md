@@ -30,3 +30,4 @@
 
 ## Chapter 5 (WIP)
 - Day 1 - https://forms.gle/o1jy1vMgqGLsAr259
+- Day 2 - https://forms.gle/oeLaw1zyAgYhnBqR7 (looking for more questions if anyone has suggestions)
